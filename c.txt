@@ -1,0 +1,2 @@
+Latitude = 32 08 59.96N Longitude = 110 50 09.03E, Speed = 33.582Km/h, 2009-03-02,12:09 
+Latitude = 18 48 50.40N Longitude = 083 24 30.84E, Speed = 33.582Km/h, 2009-03-02,12:09 
